@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587836764 source:c:\users\49815\desktop\temp\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<random>
+	"CreateData.h"
+	"GradDescentIterration.h"
+
+1587831293 c:\users\49815\desktop\temp\createdata.h
+	<vector>
+	<random>
+
+1587836114 c:\users\49815\desktop\temp\graddescentiterration.h
+	<iostream>
+	<math.h>
+	<vector>
+	<random>
+
